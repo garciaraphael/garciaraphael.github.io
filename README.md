@@ -1,2 +1,2 @@
-# garciaraphael.github.io
+# Raphael Garcia
 My personal website.
